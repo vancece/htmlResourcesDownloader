@@ -1,0 +1,670 @@
+2025-09-18 15:50:53,570 - INFO - ============================================================
+2025-09-18 15:50:53,570 - INFO - 私有化部署资源下载器启动
+2025-09-18 15:50:53,570 - INFO - ============================================================
+2025-09-18 15:50:53,570 - INFO - 总共找到 0 个 HTML 文件
+2025-09-18 15:50:53,570 - ERROR - 未找到任何 HTML 文件！
+2025-09-18 15:51:50,479 - INFO - ============================================================
+2025-09-18 15:51:50,479 - INFO - 私有化部署资源下载器启动
+2025-09-18 15:51:50,479 - INFO - ============================================================
+2025-09-18 15:51:50,479 - INFO - 找到根目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/index.html
+2025-09-18 15:51:50,479 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_bao_xin_lu_bo/index.html
+2025-09-18 15:51:50,479 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gao_jing_ming_xi/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_zeng_ren_gong_g/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_3/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_lie_biao/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/w0r7tt43ho9/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_guan_bin/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_2/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_tu_pian/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhuan_ye_ji_shu/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_feng_xian_fen_bu_qi/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gao_jing_x/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gao_jing_f/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gong_dan_go/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_xi_guan_li_dai_/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_dian_wang_shu_ju_fe/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_guan_bing_ji_lu/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wr1jk2dd2ez/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_guan_ce_/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing_xi/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_fang_xun_kan_ba/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gong_dan/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xiu_gai_mi_ma/index.html
+2025-09-18 15:51:50,480 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fang_feng_fang_xun_/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_tu_pian/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_neng_tiao_zha/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ge_ren_xin_xi_ye_mi/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gong_dan_ming_xi/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shen_pi_lie_biao/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wxyl85smh3e/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_liu_ser/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gao_jing_x/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_liu_gong_kuang_/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gu_zhang_pan_bie/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_feng_xian_qing_kuan/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fang_xun_jin_cheng/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_he_xin_zhi/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u98x4ldltj8/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_neng_tiao_zha_x/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gao_jing/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wfs3b07ho2g/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_tong_ji/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_jin_cheng_k/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tu_xiang_shan_huo_g/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/um36q8ipfb/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_dian_wang_jian_kong/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gao_jing_x/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_li_xing_gong_zuo/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gao_jing_guan_li/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_qi_xiang_gao_jing_x/index.html
+2025-09-18 15:51:50,481 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_qi_xiang/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shang_bao_de_dian/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jia_zai_ye/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_1/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jia_shi_cang/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_sheng_chan_jian_ce/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gong_dan/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_guan_ce_ji_lu_shan_/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ji_lu_qi_xiang/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wfwfihqbj80/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wo4xwt2slef/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/fang_feng_xun_work/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/w214916eact/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tong_zhi_xiao_xi_new/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_qi_xiang_gao_jing/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/index/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing_2/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zuo_ye_zhi_biao/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gong_dan_guan_li/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gao_jing/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_tu_pian/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gong_dan/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ren_gong_guan_bing/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_xiang_qing/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xun_shi_ren_wu_zhi_/index.html
+2025-09-18 15:51:50,482 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_xi_guan_li/index.html
+2025-09-18 15:51:50,483 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xun_shi_ren_wu_lie_/index.html
+2025-09-18 15:51:50,483 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_que_ren/index.html
+2025-09-18 15:51:50,483 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_jin_cheng_/index.html
+2025-09-18 15:51:50,483 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jiao_liusoe/index.html
+2025-09-18 15:51:50,483 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_she_zhi_ge_ren_xin_/index.html
+2025-09-18 15:51:50,483 - INFO - 总共找到 84 个 HTML 文件
+2025-09-18 15:51:50,484 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,485 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,486 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,488 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,489 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,492 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,493 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,494 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,496 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,497 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,498 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,500 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,501 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,502 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,503 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,504 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,505 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,506 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,507 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,509 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,510 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,511 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,512 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,513 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,514 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,515 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,516 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,517 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,519 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,520 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,521 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,522 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,523 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,524 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,526 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,527 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,528 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,529 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,530 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,532 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,533 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,534 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,536 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,537 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,538 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,539 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,540 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,541 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,542 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,543 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,544 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,545 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,546 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,547 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,548 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,550 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,551 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,552 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,553 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,554 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,555 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,556 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,557 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,558 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,559 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,560 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,561 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,562 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,563 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,564 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,566 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,567 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,568 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,569 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,570 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,571 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,572 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,573 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,574 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,575 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,577 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,578 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,579 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,580 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:51:50,580 - INFO - 总共找到 11 个唯一的外部资源
+2025-09-18 15:51:50,580 - INFO - 下载目录: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources
+2025-09-18 15:51:50,580 - INFO - 开始下载资源...
+2025-09-18 15:51:50,580 - INFO - 
+[1/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/ajax/libs/mobx/5.15.7/mobx.umd.js
+2025-09-18 15:51:50,581 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/ajax/libs/mobx/5.15.7/mobx.umd.js
+2025-09-18 15:51:50,835 - INFO - 下载成功: mobx.umd.js
+2025-09-18 15:51:50,835 - INFO - 
+[2/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/npm/@zxing/library@0.18.6/umd/index.min.js
+2025-09-18 15:51:50,836 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/npm/@zxing/library@0.18.6/umd/index.min.js
+2025-09-18 15:51:50,884 - INFO - 下载成功: index.min.js
+2025-09-18 15:51:50,884 - INFO - 
+[3/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.4/_files/static/weda-render/main.d2df30ae73fc29c9e4f9.bundle.js
+2025-09-18 15:51:50,884 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.4/_files/static/weda-render/main.d2df30ae73fc29c9e4f9.bundle.js
+2025-09-18 15:51:50,994 - INFO - 下载成功: main.d2df30ae73fc29c9e4f9.bundle.js
+2025-09-18 15:51:50,995 - INFO - 
+[4/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/@cloudbase/weda-cloud-sdk@1.0.107/dist/h5.browser.js
+2025-09-18 15:51:50,995 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/@cloudbase/weda-cloud-sdk@1.0.107/dist/h5.browser.js
+2025-09-18 15:51:51,010 - INFO - 下载成功: h5.browser.js
+2025-09-18 15:51:51,010 - INFO - 
+[5/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/acorn@8.10.0/dist/acorn.js
+2025-09-18 15:51:51,011 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/acorn@8.10.0/dist/acorn.js
+2025-09-18 15:51:51,032 - INFO - 下载成功: acorn.js
+2025-09-18 15:51:51,032 - INFO - 
+[6/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/cloudbase-adapter-privatelink@0.0.2/dist/index.js
+2025-09-18 15:51:51,032 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/cloudbase-adapter-privatelink@0.0.2/dist/index.js
+2025-09-18 15:51:51,045 - INFO - 下载成功: index.js
+2025-09-18 15:51:51,045 - INFO - 
+[7/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react-dom@16.14.0/umd/react-dom.production.min.js
+2025-09-18 15:51:51,045 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react-dom@16.14.0/umd/react-dom.production.min.js
+2025-09-18 15:51:51,064 - INFO - 下载成功: react-dom.production.min.js
+2025-09-18 15:51:51,064 - INFO - 
+[8/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react@16.14.0/umd/react.production.min.js
+2025-09-18 15:51:51,065 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react@16.14.0/umd/react.production.min.js
+2025-09-18 15:51:51,077 - INFO - 下载成功: react.production.min.js
+2025-09-18 15:51:51,077 - INFO - 
+[9/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_url/qcloud/lowcode/static/ide/assets/js/babel.min.js
+2025-09-18 15:51:51,078 - INFO - 下载中 (1/3): https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_url/qcloud/lowcode/static/ide/assets/js/babel.min.js
+2025-09-18 15:51:51,154 - INFO - 下载成功: babel.min.js
+2025-09-18 15:51:51,154 - INFO - 
+[10/11] 处理: https://static.cloudbase.net/cloudbase-js-sdk/2.20.12/cloudbase.full.js
+2025-09-18 15:51:51,155 - INFO - 下载中 (1/3): https://static.cloudbase.net/cloudbase-js-sdk/2.20.12/cloudbase.full.js
+2025-09-18 15:51:51,483 - INFO - 下载成功: cloudbase.full.js
+2025-09-18 15:51:51,483 - INFO - 
+[11/11] 处理: https://tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js
+2025-09-18 15:51:51,483 - INFO - 下载中 (1/3): https://tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js
+2025-09-18 15:51:51,560 - INFO - 下载成功: aegis.min.js
+2025-09-18 15:51:51,560 - INFO - 
+============================================================
+2025-09-18 15:51:51,560 - INFO - 下载完成！统计信息：
+2025-09-18 15:51:51,560 - INFO - 总资源数: 11
+2025-09-18 15:51:51,560 - INFO - 下载成功: 11
+2025-09-18 15:51:51,560 - INFO - 跳过已存在: 0
+2025-09-18 15:51:51,560 - INFO - 下载失败: 0
+2025-09-18 15:51:51,560 - INFO - 下载目录: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources
+2025-09-18 15:51:51,560 - INFO - ============================================================
+2025-09-18 15:51:51,561 - INFO - 资源清单已生成: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources/resource_manifest.txt
+2025-09-18 15:55:40,634 - INFO - ============================================================
+2025-09-18 15:55:40,635 - INFO - 私有化部署资源下载器启动
+2025-09-18 15:55:40,635 - INFO - ============================================================
+2025-09-18 15:55:40,635 - INFO - 找到根目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/index.html
+2025-09-18 15:55:40,636 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_bao_xin_lu_bo/index.html
+2025-09-18 15:55:40,636 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gao_jing_ming_xi/index.html
+2025-09-18 15:55:40,636 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_zeng_ren_gong_g/index.html
+2025-09-18 15:55:40,636 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_3/index.html
+2025-09-18 15:55:40,636 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_lie_biao/index.html
+2025-09-18 15:55:40,636 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/w0r7tt43ho9/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_guan_bin/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_2/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_tu_pian/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhuan_ye_ji_shu/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_feng_xian_fen_bu_qi/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gao_jing_x/index.html
+2025-09-18 15:55:40,637 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gao_jing_f/index.html
+2025-09-18 15:55:40,638 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gong_dan_go/index.html
+2025-09-18 15:55:40,638 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_xi_guan_li_dai_/index.html
+2025-09-18 15:55:40,638 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_dian_wang_shu_ju_fe/index.html
+2025-09-18 15:55:40,638 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_guan_bing_ji_lu/index.html
+2025-09-18 15:55:40,638 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wr1jk2dd2ez/index.html
+2025-09-18 15:55:40,638 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_guan_ce_/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing_xi/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_fang_xun_kan_ba/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gong_dan/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xiu_gai_mi_ma/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fang_feng_fang_xun_/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_tu_pian/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_neng_tiao_zha/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ge_ren_xin_xi_ye_mi/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gong_dan_ming_xi/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shen_pi_lie_biao/index.html
+2025-09-18 15:55:40,639 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wxyl85smh3e/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_liu_ser/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gao_jing_x/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_liu_gong_kuang_/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gu_zhang_pan_bie/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_feng_xian_qing_kuan/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fang_xun_jin_cheng/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_he_xin_zhi/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u98x4ldltj8/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_neng_tiao_zha_x/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gao_jing/index.html
+2025-09-18 15:55:40,640 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wfs3b07ho2g/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_tong_ji/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_jin_cheng_k/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tu_xiang_shan_huo_g/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/um36q8ipfb/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_dian_wang_jian_kong/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gao_jing_x/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_li_xing_gong_zuo/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gao_jing_guan_li/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_qi_xiang_gao_jing_x/index.html
+2025-09-18 15:55:40,641 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_qi_xiang/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shang_bao_de_dian/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jia_zai_ye/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_1/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jia_shi_cang/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_sheng_chan_jian_ce/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gong_dan/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_guan_ce_ji_lu_shan_/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ji_lu_qi_xiang/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wfwfihqbj80/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wo4xwt2slef/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/fang_feng_xun_work/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/w214916eact/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tong_zhi_xiao_xi_new/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_qi_xiang_gao_jing/index.html
+2025-09-18 15:55:40,642 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/index/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing_2/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zuo_ye_zhi_biao/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gong_dan_guan_li/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gao_jing/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_tu_pian/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gong_dan/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ren_gong_guan_bing/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_xiang_qing/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xun_shi_ren_wu_zhi_/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_xi_guan_li/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xun_shi_ren_wu_lie_/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_que_ren/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_jin_cheng_/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jiao_liusoe/index.html
+2025-09-18 15:55:40,643 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_she_zhi_ge_ren_xin_/index.html
+2025-09-18 15:55:40,643 - INFO - 总共找到 84 个 HTML 文件
+2025-09-18 15:55:40,645 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,647 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,650 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,658 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,662 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,666 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,670 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,672 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,675 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,679 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,680 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,682 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,684 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,685 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,687 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,688 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,690 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,692 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,693 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,695 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,697 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,698 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,701 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,702 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,704 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,705 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,707 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,708 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,710 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,712 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,714 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,715 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,717 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,718 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,720 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,722 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,723 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,725 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,726 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,728 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,730 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,731 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,733 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,734 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,736 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,737 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,739 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,741 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,742 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,744 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,746 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,747 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,750 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,751 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,753 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,755 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,757 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,759 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,760 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,762 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,763 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,765 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,767 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,768 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,770 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,771 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,773 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,774 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,776 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,777 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,779 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,780 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,782 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,783 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,785 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,786 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,788 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,789 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,791 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,792 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,794 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,796 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,797 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,799 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 15:55:40,799 - INFO - 总共找到 11 个唯一的外部资源
+2025-09-18 15:55:40,799 - INFO - 下载目录: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources
+2025-09-18 15:55:40,799 - INFO - 开始下载资源...
+2025-09-18 15:55:40,799 - INFO - 
+[1/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/ajax/libs/mobx/5.15.7/mobx.umd.js
+2025-09-18 15:55:40,799 - INFO - 文件已存在，跳过: mobx.umd.js
+2025-09-18 15:55:40,799 - INFO - 
+[2/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/npm/@zxing/library@0.18.6/umd/index.min.js
+2025-09-18 15:55:40,799 - INFO - 文件已存在，跳过: index.min.js
+2025-09-18 15:55:40,799 - INFO - 
+[3/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.4/_files/static/weda-render/main.d2df30ae73fc29c9e4f9.bundle.js
+2025-09-18 15:55:40,799 - INFO - 文件已存在，跳过: main.d2df30ae73fc29c9e4f9.bundle.js
+2025-09-18 15:55:40,799 - INFO - 
+[4/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/@cloudbase/weda-cloud-sdk@1.0.107/dist/h5.browser.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: h5.browser.js
+2025-09-18 15:55:40,800 - INFO - 
+[5/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/acorn@8.10.0/dist/acorn.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: acorn.js
+2025-09-18 15:55:40,800 - INFO - 
+[6/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/cloudbase-adapter-privatelink@0.0.2/dist/index.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: index.js
+2025-09-18 15:55:40,800 - INFO - 
+[7/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react-dom@16.14.0/umd/react-dom.production.min.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: react-dom.production.min.js
+2025-09-18 15:55:40,800 - INFO - 
+[8/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react@16.14.0/umd/react.production.min.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: react.production.min.js
+2025-09-18 15:55:40,800 - INFO - 
+[9/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_url/qcloud/lowcode/static/ide/assets/js/babel.min.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: babel.min.js
+2025-09-18 15:55:40,800 - INFO - 
+[10/11] 处理: https://static.cloudbase.net/cloudbase-js-sdk/2.20.12/cloudbase.full.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: cloudbase.full.js
+2025-09-18 15:55:40,800 - INFO - 
+[11/11] 处理: https://tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js
+2025-09-18 15:55:40,800 - INFO - 文件已存在，跳过: aegis.min.js
+2025-09-18 15:55:40,800 - INFO - 
+============================================================
+2025-09-18 15:55:40,800 - INFO - 下载完成！统计信息：
+2025-09-18 15:55:40,800 - INFO - 总资源数: 11
+2025-09-18 15:55:40,800 - INFO - 下载成功: 0
+2025-09-18 15:55:40,800 - INFO - 跳过已存在: 11
+2025-09-18 15:55:40,800 - INFO - 下载失败: 0
+2025-09-18 15:55:40,800 - INFO - 下载目录: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources
+2025-09-18 15:55:40,800 - INFO - ============================================================
+2025-09-18 15:55:40,819 - INFO - 资源清单已生成: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources/resource_manifest.txt
+2025-09-18 17:11:11,711 - INFO - ============================================================
+2025-09-18 17:11:11,712 - INFO - 私有化部署资源下载器启动
+2025-09-18 17:11:11,712 - INFO - ============================================================
+2025-09-18 17:11:11,712 - INFO - 找到根目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/index.html
+2025-09-18 17:11:11,712 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_bao_xin_lu_bo/index.html
+2025-09-18 17:11:11,713 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gao_jing_ming_xi/index.html
+2025-09-18 17:11:11,713 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_zeng_ren_gong_g/index.html
+2025-09-18 17:11:11,713 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_3/index.html
+2025-09-18 17:11:11,713 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_lie_biao/index.html
+2025-09-18 17:11:11,713 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/w0r7tt43ho9/index.html
+2025-09-18 17:11:11,713 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_guan_bin/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_2/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_tu_pian/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhuan_ye_ji_shu/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_feng_xian_fen_bu_qi/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gao_jing_x/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gao_jing_f/index.html
+2025-09-18 17:11:11,714 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gong_dan_go/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_xi_guan_li_dai_/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_dian_wang_shu_ju_fe/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_guan_bing_ji_lu/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wr1jk2dd2ez/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_guan_ce_/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing_xi/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_fang_xun_kan_ba/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gong_dan/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xiu_gai_mi_ma/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fang_feng_fang_xun_/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_tu_pian/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_neng_tiao_zha/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ge_ren_xin_xi_ye_mi/index.html
+2025-09-18 17:11:11,715 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gong_dan_ming_xi/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shen_pi_lie_biao/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wxyl85smh3e/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_liu_ser/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gao_jing_x/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_liu_gong_kuang_/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gu_zhang_pan_bie/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_feng_xian_qing_kuan/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fang_xun_jin_cheng/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_he_xin_zhi/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u98x4ldltj8/index.html
+2025-09-18 17:11:11,716 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zhi_neng_tiao_zha_x/index.html
+2025-09-18 17:11:11,717 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_gao_jing/index.html
+2025-09-18 17:11:11,717 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wfs3b07ho2g/index.html
+2025-09-18 17:11:11,717 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_tong_ji/index.html
+2025-09-18 17:11:11,717 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_jin_cheng_k/index.html
+2025-09-18 17:11:11,717 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tu_xiang_shan_huo_g/index.html
+2025-09-18 17:11:11,717 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/um36q8ipfb/index.html
+2025-09-18 17:11:11,717 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_dian_wang_jian_kong/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gao_jing_x/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_li_xing_gong_zuo/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gao_jing_guan_li/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_qi_xiang_gao_jing_x/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xian_chang_qi_xiang/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shang_bao_de_dian/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jia_zai_ye/index.html
+2025-09-18 17:11:11,718 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_rong_bing_shen_qing_1/index.html
+2025-09-18 17:11:11,719 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jia_shi_cang/index.html
+2025-09-18 17:11:11,719 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_sheng_chan_jian_ce/index.html
+2025-09-18 17:11:11,719 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_gong_dan/index.html
+2025-09-18 17:11:11,719 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_guan_ce_ji_lu_shan_/index.html
+2025-09-18 17:11:11,719 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ji_lu_qi_xiang/index.html
+2025-09-18 17:11:11,719 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wfwfihqbj80/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/wo4xwt2slef/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/fang_feng_xun_work/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/w214916eact/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tong_zhi_xiao_xi_new/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_qi_xiang_gao_jing/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/index/index.html
+2025-09-18 17:11:11,720 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_fu_bing_gao_jing_2/index.html
+2025-09-18 17:11:11,721 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zuo_ye_zhi_biao/index.html
+2025-09-18 17:11:11,721 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_gong_dan_guan_li/index.html
+2025-09-18 17:11:11,722 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gao_jing/index.html
+2025-09-18 17:11:11,722 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_zai_qing_tu_pian/index.html
+2025-09-18 17:11:11,722 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_gong_dan/index.html
+2025-09-18 17:11:11,722 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_ren_gong_guan_bing/index.html
+2025-09-18 17:11:11,722 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_an_jian_xiang_qing/index.html
+2025-09-18 17:11:11,723 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xun_shi_ren_wu_zhi_/index.html
+2025-09-18 17:11:11,723 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xin_xi_guan_li/index.html
+2025-09-18 17:11:11,723 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_xun_shi_ren_wu_lie_/index.html
+2025-09-18 17:11:11,723 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_tiao_zha_que_ren/index.html
+2025-09-18 17:11:11,723 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_shan_huo_jin_cheng_/index.html
+2025-09-18 17:11:11,724 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_jiao_liusoe/index.html
+2025-09-18 17:11:11,724 - INFO - 找到子目录 HTML: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/u_she_zhi_ge_ren_xin_/index.html
+2025-09-18 17:11:11,724 - INFO - 总共找到 84 个 HTML 文件
+2025-09-18 17:11:11,728 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,734 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,737 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,743 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,748 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,751 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,756 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,760 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,766 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,771 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,774 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,778 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,781 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,785 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,789 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,793 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,797 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,800 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,816 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,819 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,822 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,825 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,827 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,830 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,832 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,833 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,835 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,838 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,840 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,842 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,843 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,845 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,847 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,848 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,850 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,852 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,854 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,856 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,857 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,859 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,861 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,863 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,865 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,866 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,868 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,869 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,871 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,873 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,874 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,876 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,878 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,880 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,882 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,883 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,885 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,887 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,888 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,891 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,893 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,894 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,896 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,898 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,900 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,901 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,904 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,906 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,908 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,910 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,911 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,913 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,914 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,916 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,918 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,919 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,922 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,923 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,926 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,930 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,931 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,934 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,937 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,941 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,945 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,953 - INFO - 从 index.html 提取到 11 个外部资源
+2025-09-18 17:11:11,953 - INFO - 总共找到 11 个唯一的外部资源
+2025-09-18 17:11:11,953 - INFO - 下载目录: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources
+2025-09-18 17:11:11,953 - INFO - 开始下载资源...
+2025-09-18 17:11:11,953 - INFO - 
+[1/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/ajax/libs/mobx/5.15.7/mobx.umd.js
+2025-09-18 17:11:11,954 - INFO - 文件已存在，跳过: mobx.umd.js
+2025-09-18 17:11:11,954 - INFO - 
+[2/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.2/_url/npm/@zxing/library@0.18.6/umd/index.min.js
+2025-09-18 17:11:11,954 - INFO - 文件已存在，跳过: index.min.js
+2025-09-18 17:11:11,954 - INFO - 
+[3/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/0.1.4/_files/static/weda-render/main.d2df30ae73fc29c9e4f9.bundle.js
+2025-09-18 17:11:11,954 - INFO - 文件已存在，跳过: main.d2df30ae73fc29c9e4f9.bundle.js
+2025-09-18 17:11:11,954 - INFO - 
+[4/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/@cloudbase/weda-cloud-sdk@1.0.107/dist/h5.browser.js
+2025-09-18 17:11:11,954 - INFO - 文件已存在，跳过: h5.browser.js
+2025-09-18 17:11:11,954 - INFO - 
+[5/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/acorn@8.10.0/dist/acorn.js
+2025-09-18 17:11:11,955 - INFO - 文件已存在，跳过: acorn.js
+2025-09-18 17:11:11,955 - INFO - 
+[6/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/cloudbase-adapter-privatelink@0.0.2/dist/index.js
+2025-09-18 17:11:11,955 - INFO - 文件已存在，跳过: index.js
+2025-09-18 17:11:11,955 - INFO - 
+[7/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react-dom@16.14.0/umd/react-dom.production.min.js
+2025-09-18 17:11:11,955 - INFO - 文件已存在，跳过: react-dom.production.min.js
+2025-09-18 17:11:11,955 - INFO - 
+[8/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_npm/react@16.14.0/umd/react.production.min.js
+2025-09-18 17:11:11,955 - INFO - 文件已存在，跳过: react.production.min.js
+2025-09-18 17:11:11,955 - INFO - 
+[9/11] 处理: https://qbase.cdn-go.cn/lcap/lcap-resource-cdngo/-/release/_url/qcloud/lowcode/static/ide/assets/js/babel.min.js
+2025-09-18 17:11:11,955 - INFO - 文件已存在，跳过: babel.min.js
+2025-09-18 17:11:11,955 - INFO - 
+[10/11] 处理: https://static.cloudbase.net/cloudbase-js-sdk/2.20.12/cloudbase.full.js
+2025-09-18 17:11:11,955 - INFO - 文件已存在，跳过: cloudbase.full.js
+2025-09-18 17:11:11,955 - INFO - 
+[11/11] 处理: https://tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js
+2025-09-18 17:11:11,955 - INFO - 文件已存在，跳过: aegis.min.js
+2025-09-18 17:11:11,955 - INFO - 
+============================================================
+2025-09-18 17:11:11,955 - INFO - 下载完成！统计信息：
+2025-09-18 17:11:11,955 - INFO - 总资源数: 11
+2025-09-18 17:11:11,955 - INFO - 下载成功: 0
+2025-09-18 17:11:11,955 - INFO - 跳过已存在: 11
+2025-09-18 17:11:11,955 - INFO - 下载失败: 0
+2025-09-18 17:11:11,955 - INFO - 下载目录: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources
+2025-09-18 17:11:11,955 - INFO - ============================================================
+2025-09-18 17:11:11,978 - INFO - 资源清单已生成: /Users/lianziyu/Downloads/testDemo_0.0.143/dist/Web/app-yYUcqBbp/downloaded_resources/resource_manifest.txt

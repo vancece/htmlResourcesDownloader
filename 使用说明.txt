@@ -1,0 +1,35 @@
+私有化部署资源下载器 - 使用说明
+========================================
+
+## 快速开始
+
+1. 将可执行文件 `resource_downloader` 复制到您的项目根目录
+   （包含 index.html 的目录）
+
+2. 双击运行可执行文件，或在命令行中执行：
+   ./resource_downloader
+
+3. 程序会自动：
+   - 扫描所有 HTML 文件中的外部资源
+   - 下载所有第三方 JavaScript 文件
+   - 按原有目录结构保存到 downloaded_resources 文件夹
+
+## 输出结果
+
+运行完成后会生成：
+- downloaded_resources/ - 所有下载的资源文件
+- download_log.txt - 详细的下载日志
+- resource_manifest.txt - 资源清单和目录结构
+
+## 注意事项
+
+- 确保网络连接正常
+- 已下载的文件会自动跳过，可以安全地重复运行
+- 如果下载失败，可以重新运行程序继续下载
+
+## 技术支持
+
+如有问题，请查看 download_log.txt 文件了解详细信息。
+
+版本：1.0.0
+支持平台：Windows、macOS、Linux
